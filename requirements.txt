@@ -10,3 +10,4 @@ numpy==1.26.4
 pandas==2.2.2
 azure-storage-blob>=12.14.1
 six==1.16.0
+azure.search.documents==11.4.0

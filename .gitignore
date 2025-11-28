@@ -21,7 +21,7 @@ antenv/  # Conda environment for SageAlpha project
 .env.*.local
 
 # ----- IDE & OS Files -----
-.vscode/
+
 .idea/
 *.swp
 *.swo

@@ -1,0 +1,8 @@
+azure-functions
+azure-storage-blob
+requests
+pandas
+python-dateutil
+python-dotenv
+playwright
+chromium
